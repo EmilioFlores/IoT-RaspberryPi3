@@ -127,7 +127,7 @@ if __name__ == "__main__":
         read_temp_dht22()
         read_temp_ds18b20()
         sparkfun()
-        time.sleep(60) 
+        time.sleep(30) 
 
 
 #humeditydht22=12.62&temperaturedht22=29.59&temperatureds18b20=8.73
